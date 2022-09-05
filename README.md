@@ -3,7 +3,7 @@
 
 [Telegram channel](https://t.me/+0G5ev2gTmEo3ODYy)
 
-**Lecturers**: Polina Polinuna, Semen Budennyy
+**Lecturers**: Polina Polunina, Semeon Budennyy
 
 **Class Teachers and TAs**
 
