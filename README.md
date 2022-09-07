@@ -11,8 +11,8 @@
 |----------------|------|-------|
 |Andrei Egorov|БПИ201, БПИ202|Andrei Dyadynov (tg: @mr_dyadyunov), Nikita Tatarinov (tg: @NickyOL)|
 |Kirill Bykov|БПИ203, БПИ204| Anastasia Egorova (tg: @wwhatisitt), Elizaveta Berdina (tg: @berdina_elis)|
-|Maria Tikhonova|БПИ205|? |
-|Anastasia Voronkova|БПИ206, БПИ207| Anton Alekseev (tg: @flameglamebeatskilla), ?|
+|Maria Tikhonova|БПИ205|Alexander Stepin (tg: @kevicia)|
+|Anastasia Voronkova|БПИ206, БПИ207| Anton Alekseev (tg: @flameglamebeatskilla), Emil Akopyan (tg: @archivarius)|
 
 
 ## Recomended Literature
