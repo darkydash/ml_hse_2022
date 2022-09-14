@@ -33,14 +33,44 @@
 
 | Date | Topic | Lecture materials| Reading|
 |------|-------|------------------|--------|
-|5 sept|1.Introduction| TBA |[FML] Ch 1; [ESL] Ch 2.1-2 |
+|5 sep|1.Introduction|  |[FML] Ch 1; [ESL] Ch 2.1-2 |
+|12 sep|2.Gradient Optimization|  | [FML] Appx A, B; [Convex Optimization book](https://web.stanford.edu/~boyd/cvxbook/)|
+|19 sep|3.Linear Regression|  |[PR] Ch 3.1; [ESL] Ch 3.1-4;  [FML] Ch 4.4-6|
+|26 sep|4.Linear Classification|  |[PR] Ch 4.1;  [ESL] Ch 4.1-2, 4.4; [FML] Ch 13|   
+|3 oct|5.Logistic Regression and SVM|  |[ESL] Ch 12.1-3; [FML] Ch 5, 6  |
+|10 oct|6.Decision Trees|  | [ESL] Ch 9.2|
+|17 oct|7.Bagging, Random Forest| |[PR] Ch 3.2 (bias-variance); [ESL] Ch 8;  [FML] Ch 7|
+|24 oct - 30 oct| NO LECTURES | --- | --- |
+|31 oct|8.Gradient boosting|  |  [PR] Ch 14.3; [ESL] Ch 10|
+|7 nov|9.Clustering and Anomaly Detection |  |[PR] Ch 9.1; [ESL] Ch 13.2, 14.3  |
+|14 nov|10.Dimensionality reduction: PCA, SVD |  | [ESL] Ch 14.5; [PR] Ch 12.1 |
+|21 nov|11.Testing your models: AA/AB tests | | |
+|28 nov|12.MLP and basic NN |  | [PR] Ch 5.1-5.5; [ESL] Ch 11  |
+|5 dec|13.Basic CV: convolutional layer |  |  |
+|12 dec|14.ML: business applications |  |  |
+|19 dec|15.Summary |  |  |
+
 
 
 #### Practicals
 
 | Date | Topic | Materials| Extra Reading/Practice|  
 |------|-------|----------|-----------------------|
-|06-10 sept|1.Basic toolbox| [Notebook](week01/01_HSE_PE_Intro_to_Python_v4.ipynb); [Dataset](week01/dpo_1-2_winemag-data_first150k.csv)|[Python Crash Course](week01/Additional_notebooks/)|
+|6-10 sep|1.Basic toolbox| [Notebook](week01/01_HSE_PE_Intro_to_Python_v4.ipynb); [Dataset](week01/dpo_1-2_winemag-data_first150k.csv)|[Python Crash Course](week01/Additional_notebooks/)|
+|13-17 sep|2.EDA and Scikit-learn| [Notebook](week02/02_HSE_SE_EDA_v1.ipynb) ||
+|20-24 sep|3.Calculus background: Matrix-Vec differention and GD|  |[The Matrix Cookbook](http://www.math.uwaterloo.ca/~hwolkowi//matrixcookbook.pdf)|
+|27-1 oct|4.Linear Regression|  ||
+|4-8 oct|5.Classification metrics|  ||
+|11-15 oct|6.TBA|  ||
+|18-22 oct|7.Decision Trees|  ||
+|1-5 nov|8.Ensembles|  | |
+|8-12 nov|9.Gradient Boosting |   |  |
+|15-19 nov|10.Anomaly detection and Clustering |  |  |
+|22-26 nov|11.Dimension reduction: PCA, SVD |  |  |
+|29-3 dec|12.AA/AB tests |  |  |
+|6-10 dec|13.MLP and basic NN  |   |  |
+|13-17 dec|14.Basic CV: convolutional layer |   |  |
+|20-24 dec|15.Exam preparation, summary |   |  |
 
 
 
