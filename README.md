@@ -59,7 +59,7 @@
 |6-10 sep|1.Basic toolbox| [Notebook](week01/01_HSE_PE_Intro_to_Python_v4.ipynb); [Dataset](week01/dpo_1-2_winemag-data_first150k.csv)|[Python Crash Course](week01/Additional_notebooks/)|
 |13-17 sep|2.EDA and Scikit-learn| [Notebook](week02/02_HSE_SE_EDA_v1.ipynb) ||
 |20-24 sep|3.Calculus background: Matrix-Vec differention and GD|[Notebook](week03/03_HSE_SE_GD.ipynb); [Matrix-vector differentiation](week03/sem03-vector-diff.pdf) |[The Matrix Cookbook](http://www.math.uwaterloo.ca/~hwolkowi//matrixcookbook.pdf)|
-|27-1 oct|4.Linear Regression|  ||
+|27-1 oct|4.Linear Regression| [Notebook](week04/04_HSE_SE_Linear_regression_v3.ipynb) ||
 |4-8 oct|5.Classification metrics|  ||
 |11-15 oct|6.TBA|  ||
 |18-22 oct|7.Decision Trees|  ||
