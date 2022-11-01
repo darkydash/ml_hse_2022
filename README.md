@@ -84,7 +84,7 @@ You can get extra points by solving HW 6, but no more than 10 in total. Namely, 
 * `Exam` -  Grade for the exam. 
  ---
  
-You can skip the exam if all grades for the assignemnts are **not smaller** than 5.5, i.e. (`hw >=5.5`). 
+You can skip the exam if mean grade for the assignemnts are **not smaller** than 5.5, i.e. (`HW >=5.5`). 
 In this case:
 
 ```Final grade = ROUND(HW)```
