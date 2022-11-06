@@ -63,8 +63,8 @@
 |4-8 oct|5.Classification metrics| [Notebook](week05/05_HSE_PE_Classification_v2.ipynb)  ||
 |11-15 oct|6.NLP & SVM|[Notebook](week06/06_HSE_SE_intro_to_NLP_SVM.ipynb)  |[NLP For You - great online course](https://lena-voita.github.io/nlp_course.html#main_page_content)|
 |18-22 oct|7.Decision Trees|[Notebook](week07/07_HSE_SE_DT.ipynb)  |[Guide2DT](https://odsc.medium.com/the-complete-guide-to-decision-trees-part-1-aa68b34f476d)|
-|1-5 nov|8.Ensembles|week08/Seminar_08_ensembles.ipynb  | |
-|8-12 nov|9.Gradient Boosting |week09/09_HSE_SE_GBM.ipynb   |  |
+|1-5 nov|8.Ensembles|[Notebook](week08/Seminar_08_ensembles.ipynb)  | |
+|8-12 nov|9.Gradient Boosting |[Notebook](week09/09_HSE_SE_GBM.ipynb)   |  |
 |15-19 nov|10.Anomaly detection and Clustering |  |  |
 |22-26 nov|11.Dimension reduction: PCA, SVD |  |  |
 |29-3 dec|12.AA/AB tests |  |  |
