@@ -67,7 +67,7 @@
 |8-12 nov|9.Gradient Boosting |[Notebook](week09/09_HSE_SE_GBM.ipynb)   |  |
 |15-19 nov|10.Anomaly detection and Clustering |  |  |
 |22-26 nov|11.Dimension reduction: PCA, SVD |  |  |
-|29-3 dec|12.AA/AB tests | [Notebook](week12/09_HSE_SE_GBM.ipynb) |  |
+|29-3 dec|12.AA/AB tests | [Notebook](week12/12_HSE_AB_Tests.ipynb) |  |
 |6-10 dec|13.MLP and basic NN  |   |  |
 |13-17 dec|14.Basic CV: convolutional layer |   |  |
 |20-24 dec|15.Exam preparation, summary |   |  |
